@@ -1,0 +1,63 @@
+2018-04-02 12:19:39 INFO  LoginTest:40 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:19:39 INFO  LoginPage:59 - Checking the availibility of logo
+2018-04-02 12:21:12 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:21:12 INFO  LoginPage:59 - Checking the availibility of logo
+2018-04-02 12:40:28 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:40:29 INFO  LoginPage:59 - Checking the availibility of logo
+2018-04-02 12:41:44 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:41:44 INFO  LoginPage:59 - Checking the availibility of logo
+2018-04-02 12:44:16 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:44:16 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-02 12:45:49 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:45:49 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-02 12:45:51 INFO  LoginTest:56 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-02 12:52:21 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:52:21 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-02 12:52:22 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-02 12:53:26 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:53:26 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-02 12:57:47 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-02 12:57:47 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 10:39:14 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 10:39:14 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 10:52:45 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 10:52:45 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:10:19 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:10:19 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:10:19 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-03 11:11:04 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:11:04 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:15:30 INFO  Listener:38 - Started verifyLoginPageLogo excecution
+2018-04-03 11:15:30 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:15:30 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:17:12 INFO  Listener:38 - Started verifyLoginPageLogo excecution
+2018-04-03 11:17:12 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:17:12 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:17:15 INFO  Listener:98 - Finished Login Test execution
+2018-04-03 11:18:17 INFO  Listener:38 - Started verifyLoginPageLogo excecution
+2018-04-03 11:18:17 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:18:17 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:18:20 INFO  Listener:100 - Finished Login Test execution
+2018-04-03 11:25:07 INFO  Listener:28 - Started verifyLoginPageLogo excecution
+2018-04-03 11:25:07 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:25:07 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:25:07 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-03 11:25:10 INFO  Listener:102 - Finished Login Test execution
+2018-04-03 11:28:49 INFO  Listener:28 - Started verifyLoginPageLogo excecution
+2018-04-03 11:28:49 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-03 11:28:49 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-03 11:28:50 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-03 11:28:52 INFO  Listener:102 - Finished Login Test execution
+2018-04-05 09:42:01 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-05 09:42:01 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-05 09:42:01 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-05 10:01:54 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-05 10:01:54 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-05 10:01:54 INFO  WebEventListener:148 - Trying to find element by :By.xpath: //img[contains(@src,'freecrm.jpg')]
+2018-04-05 10:01:54 INFO  WebEventListener:148 - Found element by :By.xpath: //img[contains(@src,'freecrm.jpg')]
+2018-04-05 10:01:54 INFO  WebEventListener:148 - Trying to find element by :By.xpath: //img[contains(@src,'freecrm.jpg')]
+2018-04-05 10:01:54 INFO  WebEventListener:148 - Found element by :By.xpath: //img[contains(@src,'freecrm.jpg')]
+2018-04-05 10:01:54 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
+2018-04-05 10:11:33 INFO  LoginTest:42 - ==============Starting verifyLoginPageLogo test=====================
+2018-04-05 10:11:33 INFO  LoginPage:61 - Checking the availibility of logo
+2018-04-05 10:11:34 INFO  LoginTest:57 - ==============Finished verifyLoginPageLogo test=====================
